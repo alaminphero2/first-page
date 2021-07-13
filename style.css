@@ -11,7 +11,7 @@ box-sizing: border-box;
 .conmebol-area{
 background-color:#2D25A0 ;
 padding-top: 40px;
-padding-bottom: 60px;
+padding-bottom: 50px;
 }
 .container{
 width: 1140px;
@@ -95,7 +95,7 @@ font-size: 65px;
 display: inline-block;
 text-decoration: none;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding: 10px 20px;
 color: white;
 background: #E02C6D;
@@ -103,4 +103,36 @@ background: #E02C6D;
 .conmebol-weaper a:hover{
     background: yellow;
     color:red;
+}
+/* <!-- conmebol-area end --> */
+
+/* <!-- all-box-area start--> */
+
+.all-box-area{
+background: white;
+margin-top: 60px;
+}
+.three-box{
+display: flex;
+justify-content: space-between;
+}
+.box1{
+width: 33.33%;
+padding: 20px;
+margin: 10px;
+box-shadow: 0px 12px 45px #A0A0A0;
+}
+.box1 img{
+width: 100%;
+
+}
+.letter1  p{
+color: #6C6C6C;
+font-weight: 500;
+font-size: 16px;
+}
+.letter1  h3{
+color:#18191F;
+font-weight: 500;
+font-size: 30px;
 }
