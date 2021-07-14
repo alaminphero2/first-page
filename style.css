@@ -95,7 +95,7 @@ font-size: 65px;
 display: inline-block;
 text-decoration: none;
 font-weight: 400;
-font-size: 18px;
+font-size: 16px;
 padding: 10px 20px;
 color: white;
 background: #E02C6D;
@@ -137,3 +137,55 @@ font-weight: 500;
 font-size: 30px;
 }
 /* <!-- all-box-area end --> */
+/* <!-- All Highlights start --> */
+.all-area{
+margin: 100px 0;
+
+}
+.all-letter-img{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.all-letter{
+width: 50%;
+
+}
+.images{
+width: 50%;
+
+}
+.images img{
+width: 100%;
+
+}
+.all-letter h1{
+ color: #0A0826;   
+font-weight: 700;
+font-size: 52px;
+}
+.all-letter p{
+color: #757575;
+font-weight: 500;
+font-size: 17px;
+}
+.all-letter a{
+ display: inline-block;
+ text-decoration: none;   
+color: white;
+background: #E02C6D;
+padding: 10px 20px;
+font-weight: 500;
+font-size: 13px;
+ margin-top: 20px;
+}
+.all-letter a:hover{
+    background: yellow;
+    color:red;
+
+
+/* <!-- All Highlights end --> */
+
+/* <!-- Football start --> */
+
+
