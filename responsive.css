@@ -1,1 +1,111 @@
+@media Screen and (max-width:576px) {
+    .menu-logo {
+        display: none;
 
+    }
+
+    .conmebol-area {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .conmebol-img {
+        flex-direction: column;
+        margin: 20px;
+    }
+}
+
+.conmebol-weaper {
+    width: 100%;
+}
+
+.img-weaper {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.img-weaper img {
+    width: 100%;
+
+}
+
+.conmebol-weaper h1 {
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.conmebol-weaper a {
+    font-weight: 400;
+    font-size: 13px;
+    padding: 6px 10px;
+}
+
+.box1 {
+    width: 100%;
+    margin: 10px;
+}
+.all-box-area {
+    background: white;
+    margin-top: 30px;
+}
+.all-letter-img {
+margin: 20px;
+    flex-direction: column;
+
+}
+
+.all-letter {
+    width: 100%;
+}
+
+.images {
+    width: 100%;
+}
+.all-letter h1 {
+    font-weight: 600;
+    font-size: 32px;
+}
+.all-letter p {
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.all-letter a {
+    padding: 6px 10px;
+    font-weight: 400;
+    font-size: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.all-area {
+    margin: 35px 0;
+}
+.football img {
+    width: 270px;
+}
+.icons ul li {
+    padding: 0 4px;
+}
+.icons ul li a {
+    line-height: 22px;
+    width: 22px;
+    height: 22px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.copy {
+    font-weight: 300;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+}
