@@ -130,7 +130,7 @@ body {
 .box1 {
     width: 32%;
     padding: 20px;
-    box-shadow: 0px 1px 30px #A0A0A0;
+    box-shadow: 0px 0px 30px #A0A0A0;
     margin-bottom: 25px;
     overflow: hidden;
 

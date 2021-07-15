@@ -45,12 +45,14 @@
     width: 100%;
     margin: 10px;
 }
+
 .all-box-area {
     background: white;
     margin-top: 30px;
 }
+
 .all-letter-img {
-margin: 20px;
+    margin: 20px;
     flex-direction: column;
 
 }
@@ -62,10 +64,12 @@ margin: 20px;
 .images {
     width: 100%;
 }
+
 .all-letter h1 {
     font-weight: 600;
     font-size: 32px;
 }
+
 .all-letter p {
     font-weight: 400;
     font-size: 11px;
@@ -78,15 +82,19 @@ margin: 20px;
     margin-top: 12px;
     margin-bottom: 12px;
 }
+
 .all-area {
     margin: 35px 0;
 }
+
 .football img {
     width: 270px;
 }
+
 .icons ul li {
     padding: 0 4px;
 }
+
 .icons ul li a {
     line-height: 22px;
     width: 22px;
@@ -94,18 +102,11 @@ margin: 20px;
     border-radius: 25px;
     font-size: 15px;
 }
+
 .copy {
     font-weight: 300;
     font-size: 12px;
     margin-top: 10px;
 }
-
-
-
-
-
-
-
-
 
 }
